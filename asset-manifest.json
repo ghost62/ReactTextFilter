@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactTextFilter/static/css/main.d6b9b328.chunk.css",
+    "main.js": "/ReactTextFilter/static/js/main.808b4387.chunk.js",
+    "main.js.map": "/ReactTextFilter/static/js/main.808b4387.chunk.js.map",
+    "runtime-main.js": "/ReactTextFilter/static/js/runtime-main.47b9f3a8.js",
+    "runtime-main.js.map": "/ReactTextFilter/static/js/runtime-main.47b9f3a8.js.map",
+    "static/js/2.f9462cd0.chunk.js": "/ReactTextFilter/static/js/2.f9462cd0.chunk.js",
+    "static/js/2.f9462cd0.chunk.js.map": "/ReactTextFilter/static/js/2.f9462cd0.chunk.js.map",
+    "index.html": "/ReactTextFilter/index.html",
+    "precache-manifest.18b4ac1881cb140abbea768910edd3f7.js": "/ReactTextFilter/precache-manifest.18b4ac1881cb140abbea768910edd3f7.js",
+    "service-worker.js": "/ReactTextFilter/service-worker.js",
+    "static/css/main.d6b9b328.chunk.css.map": "/ReactTextFilter/static/css/main.d6b9b328.chunk.css.map",
+    "static/js/2.f9462cd0.chunk.js.LICENSE.txt": "/ReactTextFilter/static/js/2.f9462cd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47b9f3a8.js",
+    "static/js/2.f9462cd0.chunk.js",
+    "static/css/main.d6b9b328.chunk.css",
+    "static/js/main.808b4387.chunk.js"
+  ]
+}
